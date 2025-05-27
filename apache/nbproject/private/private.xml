@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/index.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/css/styles.css</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/db.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/authenticate.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/errorFlag.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/verOrden.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/errorCondFlag.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/timeBased.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/resetDatabase.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/ordenInsert.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/buscadorXSS.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/mensajeAdmin.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/mensajes.php</file>
+            <file>file:/home/ignacio/LAMP/apache/DVDBA/functions.php</file>
+        </group>
+    </open-files>
+</project-private>
