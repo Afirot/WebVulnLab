@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Características
+## Características
 
 - Aplicación web vulnerable en PHP.
 - Ideal para practicar técnicas de SQLi y XSS.
@@ -13,20 +13,20 @@
 
 ---
 
-## ⚠️ Advertencia
+## ⚠️⚠️ Advertencia ⚠️⚠️
 
 Este laboratorio **contiene vulnerabilidades reales** y debe ser utilizado **únicamente en entornos controlados**. No lo expongas a internet ni lo uses en sistemas de producción.
 
 ---
 
-## 🛠️ Requisitos
+## Requisitos
 
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
 
 ---
 
-## 🧪 Instalación y ejecución
+## Instalación y ejecución
 
 #### Clonamos el repositorio
 
