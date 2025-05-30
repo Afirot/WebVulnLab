@@ -28,14 +28,18 @@ Este laboratorio **contiene vulnerabilidades reales** y debe ser utilizado **ún
 
 ## 🧪 Instalación y ejecución
 
-Clonamos el repositorio
+###Clonamos el repositorio
 
 ```git clone https://github.com/Afirot/WebVulnLab.git```
 
-Nos movemos dentro del repositorio
+###Nos movemos dentro del repositorio
 
 ```cd WebVulnLab```
 
-Y levantamos los contenedores
+###Levantamos los contenedores
 
 ```docker-compose up -d --build```
+
+###Abre tu navegador y accede
+
+```http://localhost```
