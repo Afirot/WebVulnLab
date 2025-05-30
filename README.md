@@ -3,6 +3,9 @@ Este es un laboratorio vulnerable a SQLI y XSS escrito en PHP y listo para ser d
 
 La instalacion y ejecucion del laboratorio es muy sencilla.
 
+⚠️ Advertencia
+Este laboratorio contiene vulnerabilidades reales y debe ser utilizado únicamente en entornos controlados. No lo expongas a internet ni lo uses en sistemas de producción.
+
 Clonamos el repositorio
 
 `git clone https://github.com/Afirot/WebVulnLab.git`
