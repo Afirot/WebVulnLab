@@ -53,4 +53,5 @@ Actúa con responsabilidad y bajo tu propio riesgo.
 #### Abre tu navegador y accede
 
 ```http://localhost```
+
 ```http://<IP host>```
