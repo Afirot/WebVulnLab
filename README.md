@@ -52,4 +52,5 @@ Actúa con responsabilidad y bajo tu propio riesgo.
 
 #### Abre tu navegador y accede
 
-```http://<IP Host>```
+```http://localhost```
+```http://<IP host>```
