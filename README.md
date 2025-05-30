@@ -1,10 +1,30 @@
 # WebVulnLab
-Este es un laboratorio vulnerable a SQLI y XSS escrito en PHP y listo para ser desplegado en docker-compose.
 
-La instalacion y ejecucion del laboratorio es muy sencilla.
+**WebVulnLab** es un laboratorio de pruebas intencionadamente vulnerable a **inyección SQL (SQLi)** y **cross-site scripting (XSS)**, desarrollado en **PHP** y diseñado para ser desplegado fácilmente mediante **Docker Compose**. Está pensado para fines educativos, de investigación en ciberseguridad o pruebas de herramientas automatizadas.
 
-⚠️ Advertencia
-Este laboratorio contiene vulnerabilidades reales y debe ser utilizado únicamente en entornos controlados. No lo expongas a internet ni lo uses en sistemas de producción.
+---
+
+## 🚀 Características
+
+- Aplicación web vulnerable en PHP.
+- Ideal para practicar técnicas de SQLi y XSS.
+- Fácil despliegue con Docker y Docker Compose.
+- Entorno contenido y replicable.
+
+---
+
+## ⚠️ Advertencia
+
+Este laboratorio **contiene vulnerabilidades reales** y debe ser utilizado **únicamente en entornos controlados**. No lo expongas a internet ni lo uses en sistemas de producción.
+
+---
+
+## 🛠️ Requisitos
+
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
+
+---
 
 Clonamos el repositorio
 
