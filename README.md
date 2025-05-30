@@ -18,7 +18,7 @@
 Este laboratorio incluye **vulnerabilidades reales** con fines didacticos o de experimentacion.  
 **Debe utilizarse únicamente en entornos controlados y aislados.**
 
-Se recomienda fervientemente usar una **maquina virtual** creada exclusivamente para este proposito.
+Se recomienda encarecidamente utilizar una **máquina virtual dedicada**, creada específicamente para este propósito.
 
 🚫 **NUNCA lo expongas a internet**.  
 🚫 **NUNCA lo ejecutes en sistemas de producción**.
