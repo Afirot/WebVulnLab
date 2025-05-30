@@ -15,7 +15,13 @@
 
 ## ⚠️⚠️ Advertencia ⚠️⚠️
 
-Este laboratorio **contiene vulnerabilidades reales** y debe ser utilizado **únicamente en entornos controlados**. No lo expongas a internet ni lo uses en sistemas de producción.
+Este laboratorio incluye **vulnerabilidades reales** con fines educativos o de prueba.  
+**Debe utilizarse únicamente en entornos controlados y aislados.**
+
+🚫 **No lo expongas a internet**.  
+🚫 **No lo ejecutes en sistemas de producción**.
+
+El uso indebido puede comprometer la seguridad de otros sistemas y redes.
 
 ---
 
