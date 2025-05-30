@@ -26,9 +26,11 @@ Este laboratorio **contiene vulnerabilidades reales** y debe ser utilizado **ún
 
 ---
 
+## 🧪 Instalación y ejecución
+
 Clonamos el repositorio
 
-`git clone https://github.com/Afirot/WebVulnLab.git`
+```git clone https://github.com/Afirot/WebVulnLab.git```
 
 Nos movemos dentro del repositorio
 
@@ -36,4 +38,4 @@ Nos movemos dentro del repositorio
 
 Y levantamos los contenedores
 
-`docker-compose up -d --build`
+```docker-compose up -d --build```
