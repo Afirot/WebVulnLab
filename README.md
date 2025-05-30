@@ -25,6 +25,8 @@ Se recomienda encarecidamente utilizar una **máquina virtual dedicada**, creada
 
 El uso indebido puede comprometer la seguridad de otros sistemas y redes.
 
+Actúa con responsabilidad y bajo tu propio riesgo.
+
 ---
 
 ## Requisitos
