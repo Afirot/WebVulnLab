@@ -40,15 +40,21 @@ Actúa con responsabilidad y bajo tu propio riesgo.
 
 #### Clonamos el repositorio
 
-```git clone https://github.com/Afirot/WebVulnLab.git```
+```bash
+git clone https://github.com/Afirot/WebVulnLab.git
+```
 
 #### Nos movemos dentro del repositorio
 
-```cd WebVulnLab```
+```bash
+cd WebVulnLab
+```
 
 #### Levantamos los contenedores
 
-```docker-compose up -d --build```
+```bash
+docker-compose up -d --build
+```
 
 #### Abre tu navegador y accede
 
